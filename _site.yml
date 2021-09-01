@@ -1,0 +1,10 @@
+name: "eric-h-adjakossa-website"
+navbar:
+  title: "Eric H. Adjakossa"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research and publications"
+      href: research_and_publications.html
+    - text: "Teachings"
+      href: teachings.html
